@@ -1,0 +1,11 @@
+1. Create Git Repository 
+2. copy the same http repository path on your machine
+3. By using command git clone httpspath name
+like git clone https://... sample
+
+4. cd sample
+5. git status
+6. git add file_name(README.md)
+7. git commit -m "Initial Commit"
+8. git push origin master
+9. git log
